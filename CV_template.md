@@ -1,12 +1,12 @@
 # **CURRICULUM VITAE**
-## **YOUR NAME**
+## **Cameron Mann**
 ### **DEGREE**
 [Website](LINK) | [Email](LINK)
 - AFFILIATIONS
 
 
 ## Education
-**Temple University | DEGREE**
+**Temple University | Bachelor's of Science in Biology**
 
 *DATES*
 - IMPORTANT INFORMATION
