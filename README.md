@@ -43,3 +43,9 @@ Summer Undergraduate Research Program
   - Surveyed host plants for spotted-lanterflies
   - Parsed data to be used to analyses
   - Worked on various projects within the lab
+
+## Skills
+
+- Proficiency if using R-coding
+- CPR certified
+
