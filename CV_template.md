@@ -14,8 +14,11 @@
 - clubs
 - awards
 
-Februrary 2022-Present 
-  - American Medical Student Association
+American Medical Student Association 
+  - February 2022-Present
+
+Temple University Newman Center 
+  - August 2021-Present 
 
 
 ## Research Projects
