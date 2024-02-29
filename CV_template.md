@@ -1,18 +1,21 @@
 # **CURRICULUM VITAE**
 ## **Cameron Mann**
-### **DEGREE**
+### **Bacherlor of Science in Biology**
 [Website](LINK) | [Email](LINK)
 - AFFILIATIONS
 
 
 ## Education
-**Temple University | Bachelor's of Science in Biology**
+**Temple University | Bachelor of Science in Biology**
 
 *DATES*
 - IMPORTANT INFORMATION
 - thesis title
 - clubs
 - awards
+
+Februrary 2022-Present 
+  - American Medical Student Association
 
 
 ## Research Projects
